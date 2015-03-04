@@ -3,7 +3,7 @@ Contributors: lpkapil
 Tags: website logo, logo
 Requires at least: 2.8
 Tested up to: 4.1.1
-Stable tag: trunk
+Stable tag: 1.0
 
 A plugin to manage wordpress website logo, shortcode [WEBSITE_LOGO]
 
